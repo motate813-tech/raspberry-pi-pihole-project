@@ -1,1 +1,31 @@
-# raspberry-pi-pihole-project
+# Raspberry Pi Pi-hole DNS Server
+
+## Overview
+
+This project demonstrates the deployment and administration of a Pi-hole DNS filtering server on a Raspberry Pi Zero 2 W.
+
+## Objectives
+
+- Learn Linux administration
+- Configure DNS filtering
+- Monitor network traffic
+- Troubleshoot networking issues
+
+## Hardware
+
+- Raspberry Pi Zero 2 W
+- 32GB microSD Card
+- Mobile Hotspot (testing environment)
+
+## Software
+
+- Raspberry Pi OS
+- Pi-hole
+- SSH
+
+## Features
+
+- DNS filtering
+- Ad blocking
+- Query logging
+- Web-based administration dashboard
