@@ -29,3 +29,14 @@ This project demonstrates the deployment and administration of a Pi-hole DNS fil
 - Ad blocking
 - Query logging
 - Web-based administration dashboard
+
+## Skills Demonstrated
+
+- Linux Administration
+- Networking
+- DNS
+- Raspberry Pi
+- SSH
+- Troubleshooting
+- System Monitoring
+- Technical Documentation
