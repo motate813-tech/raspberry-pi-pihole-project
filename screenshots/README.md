@@ -1,16 +1,16 @@
 ## Screenshots
 
-### Installation
-
-screenshots/installation-terminal.png
-
-Pi-hole installation initiated on Raspberry Pi Zero 2 W using the official deployment script.
-
 ### Dashboard
 
 screenshots/dashboard-overview.png
 
 Pi-hole dashboard displaying DNS query statistics, blocked domains, active clients, and filtering performance metrics.
+
+### Installation
+
+screenshots/installation-terminal.png
+
+Pi-hole installation initiated on Raspberry Pi Zero 2 W using the official deployment script.
 
 ### Query Log
 
