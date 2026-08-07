@@ -1,0 +1,10 @@
+## Project Enhancements
+
+### Tailscale VPN
+
+Configured Tailscale VPN to enable secure remote access without requiring static IP addresses or port forwarding.
+
+Commands used:
+
+tailscale up
+tailscale status
