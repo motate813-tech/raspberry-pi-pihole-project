@@ -40,3 +40,10 @@ This project demonstrates the deployment and administration of a Pi-hole DNS fil
 - Troubleshooting
 - System Monitoring
 - Technical Documentation
+
+## Lessons Learned
+
+- DNS filtering operates at the domain lookup level.
+- Pi-hole requires a stable network configuration.
+- Linux command-line tools are essential for troubleshooting.
+- Mobile hotspots can be used successfully for testing network services.
