@@ -25,11 +25,12 @@ This project demonstrates the deployment and administration of a Pi-hole DNS fil
 
 ## Features
 
-- DNS filtering
-- Ad blocking
-- Query logging
+- DNS filtering and ad blocking
+- Real-time query monitoring
 - Web-based administration dashboard
-
+- SSH remote management
+- Secure remote access with Tailscale VPN
+- 
 ## Skills Demonstrated
 
 - Linux Administration
